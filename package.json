@@ -1,0 +1,18 @@
+{
+  "name": "typescriptproject",
+  "version": "1.0.0",
+  "description": "this is to test the features of typescript",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server"
+  },
+  "author": "Debasish",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.4.0",
+    "typescript": "^3.3.3"
+  }
+}
